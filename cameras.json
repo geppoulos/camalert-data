@@ -1,6 +1,6 @@
 {
   "config": {
-    "debounce_still_sec": 180,
+    "debounce_still_sec": 10,
     "reload_seconds": 5
   },
   "cameras": [
