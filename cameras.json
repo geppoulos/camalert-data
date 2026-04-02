@@ -1,0 +1,21 @@
+{
+  "config": {
+    "debounce_still_sec": 180
+  },
+  "cameras": [
+    {
+      "id": 1,
+      "lat": 37.948411,
+      "lng": 23.706201,
+      "radius_FineGPS": 3000,
+      "proximity_lockGPS": 1500,
+      "radius_Notify": 600,
+      "radius_NotifyIntense": 200,
+      "radius_NotifyIntense_step": 50,
+      "success_delay_meters": 50,
+      "type": "speed",
+      "angle": [180, 270],
+      "note": "Κάμερα Συγγρού Άνοδος #1"
+    }
+  ]
+}
